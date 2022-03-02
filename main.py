@@ -132,3 +132,5 @@ def get_item(lst: List[T], index: int) -> T:
 print("hello world")
 
 print("hello one more time!")
+
+print("It only shows up in main2 branch!!!")
